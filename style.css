@@ -17,10 +17,10 @@ html body {
 
 #icon {
   margin-left: 60px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  width: 80px;
-  height: 30px;
+  /* margin-top: 10px;
+  margin-bottom: 10px; */
+  /* width: 80px; */
+  height: 80px;
 }
 
 #input {
